@@ -153,7 +153,7 @@
       "homepage": "https://github.com/Defani/Geolibre-Inaturalist-Extraction-Plugins",
       "manifestUrl": "plugins/geolibre-inaturalist-extractor/plugin.json",
       "categories": ["Data"],
-           "minGeoLibreVersion": "3.0.0"
+      "minGeoLibreVersion": "3.0.0"
     },
     {
       "id": "geoenergy-catalog",
